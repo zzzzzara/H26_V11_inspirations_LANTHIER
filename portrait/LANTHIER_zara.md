@@ -5,6 +5,4 @@ J'ai un intérêt notamment pour les manières de diffusion de l'art. Toutes les
 ## Exposition inspirante
 Une exposition qui m'a beaucoup inspiré était celle de Salvador Dali en Floride. J'ai pu visiter les installations de musée de St Petersburg en juillet 2024 en hommage à ce grand artiste ainsi qu'à toutes ses créations. Dali était un visionnaire: il a imaginé plein de projet et créer de multiples tableau en utilisant des symboles remarquable. Les fourmis lui représentait la mort, tandisqu'une horloge liquéfié lui rappelait le temps qui passe. Il a sû utiliser ses symboles qui sont aujourd'hui reonnus de tous. Cet artiste m'inspire à observer les détails et à comprendre les techniques artistiques dans de futurs projets.
 
-![photo](photo/Exposition.JPG)
-
-![photo](photo/Tableau.jpg)
+![photo](photo/Exposition3.JPG)   ![photo](photo/Tableau3.jpg)
