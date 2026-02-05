@@ -33,3 +33,5 @@
 
 ![photo](photo/proche.jpg)  ![photo](photo/tresproche.jpg)
 >*Slop psyop realism* Francisco Gonzalez Galerie UdeM 29 janvier
+
+- photos et informations récoltés par Zara Lanthier
