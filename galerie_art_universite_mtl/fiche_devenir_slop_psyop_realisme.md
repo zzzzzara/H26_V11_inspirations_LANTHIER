@@ -21,6 +21,9 @@
 ![photo](photo/videoprojet.jpg)
 > Aménagement de l'espace pour une video
 
+ ![photo](photo/visualisation.jpg)
+ > utilisation de l'espace
+
 -  Un muret est aménagé pour exposer chaque composante de l'oeuvre. un bloc à été mis à disposition de présenter un livre expliquant le processus créatif ainsi que les démarches de l'Artiste. De la marchandise en lien avec l'oeuvre est également vendu et l'argent accumulé est distribué à un organisme;
 
 ![photo](photo/processus2.jpg)  ![photo](photo/processus.jpg)  ![photo](photo/motsinspiration.jpg)
