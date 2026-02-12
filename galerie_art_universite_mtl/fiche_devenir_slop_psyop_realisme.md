@@ -7,6 +7,7 @@
  > *Slop psyop realism* Francisco Gonzalez Galerie UdeM 29 janvier
 
 - Exposition temporaire du 28 novembre 2025 au 28 février 2026 qui à été présenté par la galerie d'Art de l'université de montréal;
+  [galerie d'Art de l'université de montréal](https://galerie.umontreal.ca/)
 - Oeuvre contemplative de Francisco Gonzalez-Rosas, *Slop Psyop Realism (plea$e subscribe)* réalisé au cours de l'année 2025 visité le 29 janvier 2026;
 - L'artiste représente un univers peuplé ainsi qu'un paysage saturé pour critiquer la culture post-Internet. Francisco utilise l'intelligence
    artificielle pour générer des affiches absurdes, des symboles typiques de l'internet et des vidéos strobostopiques rapellant le contenus
