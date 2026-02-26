@@ -42,4 +42,6 @@
 - Le jeu est efficace et le concept fonctionne bien. Cependant, l'expérience est très simple et on ne ressent pas vraiment le côté environnemental.
 
 ## Cheminement TIM
-- Selon moi, les cours de web, programmation et audio sont nécessaire pour réaliser ses projets 
+- Selon moi, les cours de web, programmation et audio sont nécessaire pour réaliser ses projets
+
+- Dans le projet arbre en face, il y a un qui permet de savoir où se trouve un objet et comment il se déplace dans l’espace.
