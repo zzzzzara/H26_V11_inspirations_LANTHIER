@@ -44,4 +44,4 @@
 ## Cheminement TIM
 - Selon moi, les cours de web, programmation et audio sont nécessaire pour réaliser ses projets
 
-- Dans le projet arbre en face, il y a un qui permet de savoir où se trouve un objet et comment il se déplace dans l’espace.
+- Dans le projet arbre en face, il y a un Light Detection and Ranging qui permet de savoir où se trouve un objet et comment il se déplace dans l’espace. Il permet ensuite de détecter un doigt pour que les éléments le suive.
