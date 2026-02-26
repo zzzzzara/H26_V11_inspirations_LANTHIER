@@ -21,7 +21,7 @@
 -
 
 ## 4) Terminal
-- Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
+- Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 >
 ![Photo](photo/terminal.jpg)
 > Terminal
