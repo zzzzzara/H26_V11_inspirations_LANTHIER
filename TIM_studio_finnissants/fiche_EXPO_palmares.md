@@ -40,3 +40,6 @@
 ![Photo](photo/ocean_rouge.jpg)
 > Océan rouge
 - Le jeu est efficace et le concept fonctionne bien. Cependant, l'expérience est très simple et on ne ressent pas vraiment le côté environnemental.
+
+## Cheminement TIM
+- Selon moi, les cours de web, programmation et audio sont nécessaire pour réaliser ses projets 
