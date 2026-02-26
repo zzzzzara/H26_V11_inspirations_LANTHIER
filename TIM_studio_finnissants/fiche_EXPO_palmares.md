@@ -14,7 +14,7 @@
 -
 
 ## 3) Mission Finale
-- Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
+- Ahmed Kaissoumi, Radhouane, Justin Montpetit, Thearylon Lach, Jad Saloumi
 >
 ![Photo](photo/mission_finale.jpg)
 > Mission finale
