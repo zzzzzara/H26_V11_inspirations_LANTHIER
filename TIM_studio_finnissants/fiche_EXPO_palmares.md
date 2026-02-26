@@ -28,7 +28,7 @@
 -
 
 ## 5) Arbre en face
-- Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
+- Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube
 >
 ![Photo](photo/arbre_en_face.jpg)
 > Arbre en face
