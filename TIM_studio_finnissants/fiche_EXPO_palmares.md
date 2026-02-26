@@ -35,7 +35,7 @@
 -
 
 ## 6) Océan Rouge
-- Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
+- Amira Tounekti, Kristy Moussally
 >
 ![Photo](photo/ocean_rouge.jpg)
 > Océan rouge
