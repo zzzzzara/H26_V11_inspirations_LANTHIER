@@ -23,6 +23,6 @@
 - Sur un mur, une grande toile permet de projeté l'oeuvre. Une estrade est aménagé pour regarder la vidéo et du gazon artificiel est placé au sol, rapellant une ambiance de terrain  de soccer.
   Des haut parleurs permette d'entendre l'audio de la vidéo. Le cartel est placé sur un mur derrière les estrades
 
-![photo](photo/estrade_vue_droite.jpg)
+![photo](photo/estrade_vue_gauche.jpg) ![photo](photo/estrade_vue_droite.jpg)  
 > Mise en espace Bêtise Humaine
 
