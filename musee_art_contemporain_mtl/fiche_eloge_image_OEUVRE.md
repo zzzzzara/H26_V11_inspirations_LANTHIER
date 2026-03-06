@@ -1,7 +1,7 @@
 # L'éloge de l'image manquante
 ## Musée d'Art Contemporain de montréal
 
-![photo](photo/publicité_exposition.jpg)
+![photo](photo/publicite_exposition.jpg)
 
 >[L'éloge de l'image manquante Musée d'Art Contemporain](https://macm.org/expositions/momenta-eloges/)
 
@@ -24,6 +24,7 @@
 - Éléments nécessaires à la mise en exposition: Une estrade est aménagé pour regarder la vidéo et du gazon artificiel est placé au sol, rapellant une ambiance de terrain  de soccer;
 
 ![photo](photo/estrade_vue_gauche.jpg) ![photo](photo/estrade_vue_droite.jpg)  
+![photo](photo/mise_en_espace.jpg)
 > Mise en espace Bêtise Humaine
 
 - Un court métrage joue en boucle pour que l'utilisateur s'installe dans une estrade rappelant les terrains de jeux sportifs. La cartel peux être lue en premier est affichée sur un mur en arrière de l'estrade.
