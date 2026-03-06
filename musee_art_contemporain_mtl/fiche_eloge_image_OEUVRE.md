@@ -15,7 +15,7 @@
   [Musée d'Art Contemporain de montréal](https://macm.org/expositions/momenta-eloges/)
 - Oeuvre contemplative de Joyce Joumaa, *Bêtise Humaine* réalisé au cours de l'année 2025 visité le 21 février 2026;
 - L'artiste illustre les conséquences d'un passé colonial sur une nation et critiques les abus de pouvoirs sur une population. Joyce représente une scène de réconciliation évoquant la nostalgie d'une époque révolue 
-  [Projets de Joyce Joumaa]()
+  [Projets de Joyce Joumaa](https://joycejoumaa.com/)
 
   ![photo](photo/cartel.jpg)
 
