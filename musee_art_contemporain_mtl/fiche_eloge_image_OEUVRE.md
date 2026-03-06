@@ -13,9 +13,16 @@
 
 - Exposition temporaire du 11 septembre 2025 au 8 mars 2026 qui à été présenté par le Musée d'Art Contemporain de montréal;
   [Musée d'Art Contemporain de montréal](https://macm.org/expositions/momenta-eloges/)
-- Oeuvre contemplative de Joyce Joumaa, *Bêtise Humaine* réalisé au cours de l'année 2025 visité le 21 février 2026;
+- Oeuvre contemplative de Joyce Joumaa coproduite grâce à un partenariat entre MOMENTA et Vidéographe, *Bêtise Humaine* réalisé au cours de l'année 2025 visité le 21 février 2026;
 - L'artiste illustre les conséquences d'un passé colonial sur une nation et critiques les abus de pouvoirs sur une population. Joyce représente une scène de réconciliation évoquant la nostalgie d'une époque révolue 
   [Projets de Joyce Joumaa](https://joycejoumaa.com/)
 
-  ![photo](photo/cartel.jpg)
+![photo](photo/cartel.jpg)
+  > Cartel Bêtise Humaine
+
+- Sur un mur, une grande toile permet de projeté l'oeuvre. Une estrade est aménagé pour regarder la vidéo et du gazon artificiel est placé au sol, rapellant une ambiance de terrain  de soccer.
+  Des haut parleurs permette d'entendre l'audio de la vidéo. Le cartel est placé sur un mur derrière les estrades
+
+![photo](photo/estrade_vue_droite.jpg)
+> Mise en espace Bêtise Humaine
 
