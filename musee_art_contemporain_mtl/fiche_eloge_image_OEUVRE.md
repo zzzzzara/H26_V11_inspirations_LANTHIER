@@ -10,6 +10,7 @@
 
 ![photo](photo/ensemble_oeuvre.jpg)
 > Bêtise Humaine Joyce Joumaa L'éloge de l'image manquante 21 février 2026
+> Photo: Zara Lanthier
 
 - Exposition temporaire du 11 septembre 2025 au 8 mars 2026 qui à été présenté par le Musée d'Art Contemporain de montréal;
 - Oeuvre contemplative de Joyce Joumaa coproduite grâce à un partenariat entre MOMENTA et Vidéographe, *Bêtise Humaine* réalisé au cours de l'année 2025 visité le 21 février 2026;
@@ -17,7 +18,8 @@
   [Projets de Joyce Joumaa](https://joycejoumaa.com/);
 
 ![photo](photo/cartel.jpg)
-  > Cartel Bêtise Humaine
+> Cartel Bêtise Humaine
+> Photo: Zara Lanthier
 
 - Composantes techniques: Sur un mur, une grande toile permet de diffuser l'oeuvre grâce à un projecteur. Des haut parleurs permettent d'entendre l'audio de la vidéo. Le cartel est placé sur un mur derrière les estrades;
 
@@ -26,6 +28,7 @@
 ![photo](photo/estrade_vue_gauche.jpg) ![photo](photo/estrade_vue_droite.jpg)  
 ![photo](photo/mise_en_espace.jpg)
 > Mise en espace Bêtise Humaine
+> Photo: Zara Lanthier
 
 - Un court métrage joue en boucle pour que l'utilisateur s'installe dans une estrade rappelant les terrains de jeux sportifs. La cartel peux être lue en premier est affichée sur un mur en arrière de l'estrade.
 La vidéo présente un match de soccer amical opposant la France et l'Algérie en 2001, anciens pays colonisateur, ainsi que des extraits du film *The Battle of Algiers* 1966, qui parle de la guerre d'indépendance
@@ -39,6 +42,7 @@ de l'Algérie;
 
 ![photo](photo/projection.jpg)
 > Bêtise Humaine Joyce Joumaa L'éloge de l'image manquante 21 février 2026
+> Photo: Zara Lanthier
 
 -Références: 
 [MOMENTA Biennale d'Art Contemporain](https://momentabiennale.com/)
