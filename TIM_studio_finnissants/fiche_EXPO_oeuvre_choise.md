@@ -19,5 +19,7 @@
 
 
 - En circulant autour du dispositif, on remarque les regards de animaux, mais ce n'est que lorsque l'on entre dans un zone mise en valeur par un cercle de lumière que l'intéraction s'active. Nos yeux sont projetés dans les divers écrans. L'ambiance sonore s'intensifie et on entend divers bruits nous plongeants dans une atmosphère mélancolique. 
-  > ''Ce jeu d’échanges visuels instaure un dialogue silencieux qui brouille la frontière entre celui qui observe et celui qui est observé.''
-   -[Dossier de conception fait par l'équipe](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/?id=lexp%c3%a9rience>)
+> ''Ce jeu d’échanges visuels instaure un dialogue silencieux qui brouille la frontière entre celui qui observe et celui qui est observé.''
+>> -[Dossier de conception fait par l'équipe](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/?id=lexp%c3%a9rience>)
+
+- Toute la direction artitique 
