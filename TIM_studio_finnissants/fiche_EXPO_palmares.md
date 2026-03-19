@@ -25,7 +25,7 @@
 >
 ![Photo](photo/terminal.jpg)
 > Terminal
-- J'ai trouvé le jeu très divertissant et l'ambiance est très bien exécuté. On se sent dans un jeu vidéo des années 80 (style Pacman). Cependant, il n'y a pas beacoup de niveau et les niveaux et les premiers défis sont trop facile à exécuter.
+- J'ai trouvé le jeu très divertissant et l'ambiance est très bien exécuté. On se sent dans un jeu vidéo des années 80 (style Pacman). Cependant, il n'y a pas beacoup de niveaux et les premiers défis sont trop facile à exécuter.
 
 ## 5) Arbre en face
 - Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube
