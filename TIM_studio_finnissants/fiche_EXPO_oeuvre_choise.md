@@ -11,7 +11,7 @@
 ![photo](photo/projet_final.jpg)
 > Quand les yeux se croisent Exposition Finissants 24 février 2026 et 17 mars 2026 Photo: Zara Lanthier
 
-- Installation contemplative et interactive du 16 au 20 mars 2026 au studio des finissants TIM Montmorency;
+- Installation temporaire, contemplative et interactive du 16 au 20 mars 2026 au studio des finissants TIM Montmorency;
 - Oeuvre de Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif réalisé au cours de l'année 2025;
 - Les artistes essayent de créer une expérience entre les animaux et l'humain pour représenter le lien universel qui nous rassemble. Au travers des regards, l'utilisateur est invité à observer le regards animal projetés ainsi qui le sien créant un dialogue visuel.
   L'oeuvre tente d'établir un lien profond entre l'Homme et l'Animal;
