@@ -7,7 +7,8 @@
 ## Quand les yeux se croisent
 ### Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
-![photo](photo/quand_les_yeux_se_croisent.jpg)
+![photo](photo/quand_les_yeux_se_croisent.jpg) 
+![photo](photo/projet_final.jpg)
 > Quand les yeux se croisent Exposition Finissants 24 février 2026 Photo: Zara Lanthier
 
 
