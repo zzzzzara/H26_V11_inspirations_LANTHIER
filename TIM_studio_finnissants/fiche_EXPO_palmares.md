@@ -18,7 +18,7 @@
 >
 ![Photo](photo/mission_finale.jpg)
 > Mission finale
-- Le jeu est très divertissant et captivant pour les utilisateurs. L'esthétique est cohérant et efficace, mais les tâches sont difficiles à comprendre sans aide externe. Il y a beacoup de commandes différentes rendant les objectifs difficiles à atteindre.
+- Le jeu est très divertissant et captivant pour les utilisateurs. L'esthétique est cohérante et efficace, mais les tâches sont difficiles à comprendre sans aide externe. Il y a beacoup de commandes différentes rendant les objectifs difficiles à atteindre.
 
 ## 4) Terminal
 - Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
