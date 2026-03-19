@@ -2,7 +2,7 @@
 ## Studio TIM Finissants
 
 ![photo](photo/entrée.jpg)
-> Exposition Finissants 24 février 2026
+> Reseau Vivant Exposition Finissants 24 février 2026 Photo: Zara Lanthier
 
 ## Quand les yeux se croisent
 ### Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
@@ -30,3 +30,8 @@
 
 - La direction artistique est très intéressante. Les images d'inspirations sont recherchées et concorde avec le résultat final. Je trouve que l'expérience est très divertissante et on ressent vraiment la profondeur du lien entre humains et animaux;
 - Je trouve que le parcours est assé court et aurait pu être complexifié. On aurait pu cacher le cablage et l'arrière des télévisions pour rendre le résultat plus propre;
+
+![photo](photo/spot_lumière.jpg)
+> Quand les yeux se croisent Exposition Finissants 17 mars 2026 Photo: Zara Lanthier
+
+- Composantes: les illustrations de traces de pas indique à l'utilisateur où se placer pour intéragir avec l'oeuvre
