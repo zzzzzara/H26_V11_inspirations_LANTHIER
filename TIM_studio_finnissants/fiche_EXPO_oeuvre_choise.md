@@ -34,6 +34,6 @@
 ![photo](photo/spot_lumière.jpg)
 > Quand les yeux se croisent Exposition Finissants 17 mars 2026 Photo: Zara Lanthier
 
-- Composantes: les illustrations de traces de pas indique à l'utilisateur où se placer pour intéragir avec l'oeuvre;
-- Éléments nécessaires à la mise en exposition: Équipement audiovisuel (Télévision cathodique, Haut-parleurs, trepied, etc), Lumière LED, Spotlight, Câblage
+- Composantes: les illustrations de traces de pas indiquent à l'utilisateur où se placer pour intéragir avec l'oeuvre;
+- Éléments nécessaires à la mise en exposition: Équipement audiovisuel (Télévision cathodique, Haut-parleurs, trepied, etc), Lumière LED, Spotlight, Câblage, décoration (fleurs et plantes artificielles);
 - Références: [Site Réseau Vivant 2026](https://tim-montmorency.com/2026/), [Site Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
