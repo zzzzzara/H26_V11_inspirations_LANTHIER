@@ -2,7 +2,7 @@
 ## Studio TIM Finissants
 
 ![photo](photo/entrée.jpg)
-> Reseau Vivant Exposition Finissants 24 février 2026 Photo: Zara Lanthier
+> Reseau Vivant Exposition Finissants 17 mars 2026 Photo: Zara Lanthier
 
 ## Quand les yeux se croisent
 ### Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
