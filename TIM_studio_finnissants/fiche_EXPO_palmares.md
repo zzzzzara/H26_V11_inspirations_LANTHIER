@@ -6,7 +6,7 @@
 > Quand les yeux se croisent
 - Lors de l'expérience, je me suis senti plongé dans un décor calme et naturel. Le contraste entre les yeux d'animaux ainsi que nos yeux créé une ambiance mystérieuse où on ne fait qu'un avec le décor. Les plantes ajoutent un côté sensible à l'exposition
 
-## 2) Symbiosse
+## 2) Symbiose
 - Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 >
 ![Photo](photo/symbiose.jpg)
