@@ -47,6 +47,9 @@ de l'Algérie;
 -Références: 
 [MOMENTA Biennale d'Art Contemporain](https://momentabiennale.com/)
 [Journal Place Ville Marie](https://placevillemarie.com/fr/evenements/exposition-au-mac-eloges-de-limage-manquante)
+[MOMENTA x VOX](https://centrevox.ca/expositions/momenta-2025)
+[Joyce Joumaa](https://joycejoumaa.com/)
+[Musée d'Art Contemporain de Montméral](https://macm.org/expositions/momenta-eloges/)
 
 
 
