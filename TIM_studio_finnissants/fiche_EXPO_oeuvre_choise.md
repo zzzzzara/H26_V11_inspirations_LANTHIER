@@ -24,6 +24,9 @@
 > ''Ce jeu d’échanges visuels instaure un dialogue silencieux qui brouille la frontière entre celui qui observe et celui qui est observé.''
 > - -[Dossier de conception fait par l'équipe](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/?id=lexp%c3%a9rience>)
 
+![photo](photo/oeuvre_croquis.png)
+> Croquis de la mise en exposition Quand les yeux se croisent Exposition Finissants Photo: [Dossier de conception fait par l'équipe/technique](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/)
+
 ![photo](photo/demonstration.jpg)
 ![photo](photo/yeux.jpg)
 > Quand les yeux se croisent Exposition Finissants 24 février 2026 Photo: Zara Lanthier
@@ -31,7 +34,7 @@
 - La direction artistique est très intéressante. Les images d'inspirations sont recherchées et concorde avec le résultat final. Je trouve que l'expérience est très divertissante et on ressent vraiment la profondeur du lien entre humains et animaux;
 - Je trouve que le parcours est assé court et aurait pu être complexifié. On aurait pû cacher le cablage et l'arrière des télévisions pour rendre le résultat plus propre;
 
-![photo](photo/spot_lumière.jpg)
+![photo](photo/spot_lumière.jpg) 
 > Quand les yeux se croisent Exposition Finissants 17 mars 2026 Photo: Zara Lanthier
 
 - Composantes: Les illustrations de traces de pas indiquent à l'utilisateur où se placer pour intéragir avec l'oeuvre;
