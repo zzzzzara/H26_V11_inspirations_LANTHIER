@@ -21,7 +21,7 @@
 > Cartel Bêtise Humaine
 > Photo: Zara Lanthier
 
-- Composantes techniques: Sur un mur, une grande toile permet de diffuser l'oeuvre grâce à un projecteur. Des haut parleurs permettent d'entendre l'audio de la vidéo. Le cartel est placé sur un mur derrière les estrades;
+- Composantes techniques: Sur un mur, une grande toile permet de diffuser l'oeuvre grâce à un projecteur. Des haut-parleurs situés au plafond permettent d'entendre l'audio de la vidéo. Le cartel est placé sur un mur derrière les estrades;
 
 - Éléments nécessaires à la mise en exposition: Une estrade est aménagé pour regarder la vidéo et du gazon artificiel est placé au sol, rapellant une ambiance de terrain  de soccer;
 
