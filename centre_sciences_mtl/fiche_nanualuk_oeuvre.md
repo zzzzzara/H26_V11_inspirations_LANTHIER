@@ -31,7 +31,7 @@
   
 - L'expérience est très divertissante: le contenu sur les traditions inuit est très intéressant et le jeux s'exécute de manière très fluide. C'est une activité qui fonctionne bien et qui accroche le publique;
 
-- J'ai aimé le format du jeux: le concept est cohérent avec l'exposition entière et l'activité est très agréable pour un publique plus jeune. Les portions d'explications sont très bien distribués et facile à comprendre. J'ai aimé les personnages qui présentait l'activité. On présente vraiment des figures typiques Inuit et on voit le contrsate avec notre société ce qui nous permet de se projeté dans un paysage nordique. l'esthétique de l'exposition est visuellement agréasble et très bien maintenu;
+- J'ai aimé le format du jeux: le concept est cohérent avec l'exposition entière et l'activité est très agréable pour un publique plus jeune. Les portions d'explications sont très bien distribués et facile à comprendre. J'ai aimé les personnages qui présentait l'activité. On présente vraiment des figures typiques Inuit et on voit le contrsate avec notre société ce qui nous permet de se projeté dans un paysage nordique. l'esthétique de l'exposition est visuellement agréable et très bien maintenu;
   
 - Dépendant des activités, lorsqu'on doit sortir du kiosque pour exécuter l'activité, on doit revenir à ce même kiosque pour la terminer. Cependant, si d'autres utilisateurs s'y sont installé pendant ce temps, l'attente peut être désagréable et longue.
   
