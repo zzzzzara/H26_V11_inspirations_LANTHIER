@@ -3,7 +3,7 @@
 
 ![photo](photo/publicite_exposition.jpg)
 
->L'éloge de l'image manquante Musée d'Art Contemporain Photo : [Site du musée d'art contemporain de mtl](https://macm.org/expositions/momenta-eloges/)
+>L'éloge de l'image manquante Musée d'Art Contemporain affiche promotionelle Photo : [Site du musée d'art contemporain de mtl](https://macm.org/expositions/momenta-eloges/)
 
 ## Bêtise Humaine
 ### Joyce Joumaa
