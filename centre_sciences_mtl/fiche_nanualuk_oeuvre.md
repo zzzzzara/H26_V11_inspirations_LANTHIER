@@ -17,6 +17,9 @@
 ![photo](photo/salle.jpg)
 > Nanualuk – Expédition Nordique Suis le rythme 2 avril 2026 Photo: Zara Lanthier
 
+![photo](photo/mise_en_espace.jpg)
+> Nanualuk – Expédition Nordique Suis le rythme mise en espace Photo: Zara Lanthier
+
 - La salle met a disposition plein de petits kiosque sur la culture Inuit. Un kiosque présente la culture musical du peuple à travers un jeux: Sur un mur, un écran est mis a disposition pour distribuer les explications du jeux et sur les traditions Inuit. L'utilisateur scanne un médaillon (nanuup tuminnga) préalablement acquis a l'entré de l'exposition pour démarrer l'activité. Le maillet permet de jouer le tambour électrique divisé en trois section (droite, gauche et milieu) pour suivre le rythme. Sur le mur adjacent, on présente un véritable tambour inuit avec une courte description;
 
 ![photo](photo/tambour.jpg) ![photo](photo/cartel_tambour.jpg)
