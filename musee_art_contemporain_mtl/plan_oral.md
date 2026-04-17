@@ -15,7 +15,29 @@ Conclusion :
  Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
 
 
- ## Introduction
+## Introduction
 ### Sujet posé
 - Exposition: L'Éloge de l'image manquante
-- Oeuvre : 
+- Oeuvre : Bêtise humaine
+- Artiste : Joyce Joumaa
+- Lieu : Musée d'art ccontemporain de montréal
+
+### Sujet divisé
+
+## Développement
+### Présentation du lieu
+- Plus dans son bâtiment habituel de la Place des Arts (construction, chantier prêt pour 2028)
+- Temporairement relocalisé à Place Ville Marie (au niveau de la galerie, en plein centre-ville)
+- Présente des expositions et activités temporaires
+### Présentation de l'oeuvre
+
+### Expérience vécue
+
+### Appréciation et justifications
+
+### Liens avec d'autres oeuvres
+
+## Conclusion
+### Rappel 
+
+### Ouverture
