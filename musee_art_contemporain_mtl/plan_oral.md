@@ -29,7 +29,7 @@
 ### Appréciation et justification
 - L'oeuvre est divertissante et la recherche d'images et de thèmes pour le projet est très intéressante. Les relations de pouvoir sont abordées de manière judicieuse et on comprend très bien l'essence du projet. Le court-métrage est touchant et mélancolique. On ressent la soif de justice et de réconciliation;
 - Je conseil de lire le cartel en premier pour s'imerger dans l'ambiance de l'époque et comprendre le contexte historique abordé;
-- J'ai apprécié mon expérience et la mise en scène du terrain de soccer est très cohérente. Il serait nécessaire de revoir le systeme d'estrade pour rendre l'écoute plus confortable par conte;
+- J'ai apprécié mon expérience et la mise en scène du terrain de soccer est très cohérente. Il serait nécessaire de revoir le systeme d'estrade pour rendre l'écoute plus confortable par contre;
   
 ### Liens avec d'autres oeuvres
 - Différences : Mise en scène simple mais cohérente;
